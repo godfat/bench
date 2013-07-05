@@ -1,0 +1,4 @@
+#!/bin/sh
+
+source ./bin/bench.sh
+bench /jellyfish
