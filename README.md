@@ -51,6 +51,8 @@ Which is simply:
 
 # A Detailed Example Result:
 
+We use [httperf](http://www.hpl.hp.com/research/linux/httperf/) for running this benchmark.
+
 ## Rails 4
 
 Command:
