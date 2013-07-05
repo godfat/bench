@@ -49,7 +49,7 @@ Which is simply:
 
 
 
-# An Example Detailed Result:
+# A Detailed Example Result:
 
 ## Rails 4
 
