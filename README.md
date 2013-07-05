@@ -39,7 +39,7 @@ end
 
 ## Run the server:
 
-We run Rainbows! with ThreadPool concurrency model.
+We run [Rainbows! with ThreadPool](http://rainbows.rubyforge.org/Rainbows/ThreadPool.html) concurrency model with MRI (CRuby) 2.0.
 
     ./bin/server
 
