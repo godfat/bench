@@ -1,13 +1,13 @@
 
 # A Simple and Stupid Benchmark For Serving API For:
 
-* Rails 4
-* Sinatra 1.4
-* Jellyfish 0.8
+* [Rails 4](https://github.com/rails/rails/tree/v4.0.0)
+* [Sinatra 1.4](https://github.com/sinatra/sinatra/tree/v1.4.3)
+* [Jellyfish 0.8](https://github.com/godfat/jellyfish/tree/jellyfish-0.8.0)
 
 ## Quick and Dirty Conclusion:
 
-| Framework     | req/s | ratio | failing rate |
+|     framework | req/s | ratio | failing rate |
 | -------------:|:-----:|:-----:|:------------:|
 |       Rails 4 | 301.3 |  1.0  |      7%      |
 |   Sinatra 1.4 | 589.2 |  2.0  |      0%      |
