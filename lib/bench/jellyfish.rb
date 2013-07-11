@@ -9,7 +9,7 @@ class Bench::JellyfishCore
   end
 end
 
-Bench::Jellyfish = Rack::Builder.new do
+Bench::Jellyfish = Rack::Builder.app do
   use Rack::ContentLength
   use Rack::ContentType
   run Bench::JellyfishCore.new
